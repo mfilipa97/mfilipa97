@@ -70,11 +70,10 @@ me.say_hey()
 <h2 align="center">Contact me?<img src="https://media.giphy.com/media/3ov9k0XwrB2mfYus4E/giphy.gif" width="50"></h2>
 <div align="center"> 
   <a href="mailto:marifilipa31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/mfilipa97" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mfilipa97" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 </div>
 <br>
-
-[linkedin]: www.linkedin.com/in/mfilipa97 "Mariana's LinkedIn"
-[github]: https://github.com/mfilipa97/ "My github"
 
 ![](https://komarev.com/ghpvc/?username=mfpm97&color=ff69b4)
