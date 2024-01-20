@@ -24,63 +24,32 @@ me.say_hey()
 
 <h4 align="center"> Languages/Tools I'm currently working on and learning! </h4>
 <p align="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-  </a>  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>  
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
-  </a> 
+</p>
 
-    
 <h4 align="center"> Non-coding tools I use regularly and/or I'm currently learning! </h4>
- <p align="center" style="text-align: center;">
-     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+<p align="center" style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> 
-  </a> 
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/> 
-  </a> 
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
-  </a> 
-     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> 
-  </a> 
-     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> 
-  </a> 
+    <img src="https://www.svgrepo.com/show/303190/after-effects-cc-logo.svg" alt="after_effects" width="60" height="60"/> 
+    <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" alt="premiere" width="60" height="60"/> 
 </p>
 </p>
+
 
 
 
@@ -99,16 +68,11 @@ me.say_hey()
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfilipa97&theme=aura_dark&utcOffset=8" alt="Productive Time"/>
 </p>
 <h2 align="center">Contact me?<img src="https://media.giphy.com/media/3ov9k0XwrB2mfYus4E/giphy.gif" width="50"></h2>
-
-<p align="center">
-  <a href="https://github.com/mfilipa97" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='100'>
-  </a> 
-  <a href="https://www.linkedin.com/in/mfilipa97/" target="_blank" rel="noreferrer"> 
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='100'> 
-  </a>
-</p>
-
+<div align="center"> 
+  <a href="mailto:marifilipa31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/mfilipa97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
 
 [linkedin]: www.linkedin.com/in/mfilipa97 "Mariana's LinkedIn"
 [github]: https://github.com/mfilipa97/ "My github"
